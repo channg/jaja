@@ -1,0 +1,14 @@
+{
+  "name": "cachedom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "localforage": "^1.7.2"
+  }
+}
